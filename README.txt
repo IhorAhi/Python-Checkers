@@ -10,7 +10,7 @@ main.py - pieces all together and displays the whole thing
 
 Description of the project
 
-The goal of the project is to create a checkers using Python
+The goal of the project is to create checkers using Python
 
 How to launch
 
