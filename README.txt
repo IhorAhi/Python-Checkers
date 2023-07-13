@@ -1,4 +1,4 @@
-Title: Web Store
+Title: Python Checkers
 
 Files
 
