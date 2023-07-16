@@ -4,7 +4,7 @@ Files
 
 funcs.py - contains classes Checkers, Board and Game, that are essential for the working of the program
 
-products1.db - is song, that is played during the game
+song.mp3 - is song, that is played during the game
 
 main.py - pieces all together and displays the whole thing
 
